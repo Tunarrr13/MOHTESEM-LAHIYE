@@ -1,16 +1,9 @@
-<<<<<<< HEAD
-=======
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
-
->>>>>>> 163202d484a721089a7dc1871764d5940c36c3d5
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-<<<<<<< HEAD
 body{
     background-color: red;
 }
@@ -48,24 +41,22 @@ p{
 
 h1{
     text-align: center;
-=======
+}
+    
 header{
     width: 100vw;
     height: 15vh;
     background-color: red;
-
 }
 
 
 h1{
     font-family: "Roboto", serif;
->>>>>>> 163202d484a721089a7dc1871764d5940c36c3d5
     color: white;
     text-align: center;
 }
 
 input{
-<<<<<<< HEAD
     margin-left: 30vw;
     width: 30vw;
     height: 2vw;
@@ -101,15 +92,6 @@ img{
 label{
     text-align: center;
 }
-=======
-    padding: 5px;
-    border-radius: 10px;
-    border: none;
-    margin-left: 500px;
-    margin-top: 5px;
-
-    
-}
 
 button{
     width: 65px;
@@ -119,5 +101,3 @@ button{
     color: red;
     
 }
-
->>>>>>> 163202d484a721089a7dc1871764d5940c36c3d5
